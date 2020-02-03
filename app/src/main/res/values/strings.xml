@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModelSavedState</string>
+    <string name="textView">0</string>
+    <string name="button1">+1</string>
+</resources>
