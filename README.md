@@ -1,0 +1,3 @@
+# ViewModelSaveState
+前面的DataBinding,LiveData和ViewModel已经基本解决数据保存问题，但是用户在长时间不使用或者在不保留后台以及限制后台进程情况下，
+Activity还是会被杀死，这时候使用ViewModelSaveState进行增强保存
